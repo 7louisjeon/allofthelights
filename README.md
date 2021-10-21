@@ -1,4 +1,4 @@
-# 🌠Allofthelights
+# 🌠All Of The Lights
 
 ## 🌟Introduction
 
