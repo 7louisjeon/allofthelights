@@ -18,7 +18,7 @@
 
 - All of the lights theme
 
-- ❤certified loverboy heart floating theme
+- certified loverboy heart floating theme
 
 - golden ovo mark floating theme
 
