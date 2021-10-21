@@ -1,6 +1,6 @@
-# 🌈Allofthelights
+# 🌟Allofthelights
 
-## 🌟Introduction
+## Introduction
 
 ---
 
