@@ -14,9 +14,13 @@
 
 - 🌠Star falling theme
 
-- Matrix theme
+- Kissland theme
 
-- Colorful letters
+- All of the lights theme
+
+- ❤certified loverboy heart floating theme
+
+- golden ovo mark floating theme
 
 ## ♟Tabs
 
