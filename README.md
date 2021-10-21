@@ -8,6 +8,16 @@
 
 <br/>
 
+## Themes
+
+---
+
+- 🌠Star falling theme
+
+- Matrix theme
+
+- Colorful letters
+
 ## ♟Tabs
 
 ---
