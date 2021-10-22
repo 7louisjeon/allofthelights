@@ -62,10 +62,6 @@
 
 - Design aestetics
 
-- State management
-
-- Data structues
-
 <br/>
 
 ## 🔧Tech Stack
@@ -77,7 +73,7 @@
 - Sass - Used to make styling simple
 
 - React - Used for component development and management
--
+
 - Redux - Used as a state management tool
 
 - GraphQL
