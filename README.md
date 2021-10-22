@@ -12,7 +12,7 @@
 
 ---
 
-- 🌠Star falling theme
+- Star falling theme
 
 - Kissland theme
 
@@ -86,7 +86,7 @@
 
 - Axios -
 
-- bcrypt
+- Mikro-Orm
 
 <br/>
 
