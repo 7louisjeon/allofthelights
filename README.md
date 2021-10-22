@@ -1,4 +1,4 @@
-# 🌈Allofthelights
+# 🌠All Of The Lights
 
 ## 🌟Introduction
 
@@ -7,6 +7,20 @@
 - Allofthelights is a beautiful neon components library made with TypeScript, React, Redux, GraphQL and more.
 
 <br/>
+
+## Website Themes
+
+---
+
+- Star falling theme
+
+- Kissland theme
+
+- All of the lights theme
+
+- certified loverboy heart floating theme
+
+- golden ovo mark floating theme
 
 ## ♟Tabs
 
@@ -72,7 +86,7 @@
 
 - Axios -
 
-- bcrypt
+- Mikro-Orm
 
 <br/>
 
