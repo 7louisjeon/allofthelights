@@ -4,7 +4,7 @@
 
 ---
 
-- Allofthelights is a beautiful neon components library website made with TypeScript, React, Redux, GraphQL and more.
+- All of the lights is a beautiful neon components library website made with TypeScript, React, Redux, GraphQL and more.
 
 <br/>
 
