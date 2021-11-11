@@ -84,7 +84,7 @@
 
 - NodeJS/express
 
-- PostressQL
+- PostgresQL
 
 - Axios -
 
@@ -98,3 +98,6 @@
 
 - 0.0.1
   - Structured development env
+
+- 0.0.2
+  - Set basic backend structure with TypeScript, Apollo, GraphQL, NodeJS/express, PostgresQL and Mikro-Orm
