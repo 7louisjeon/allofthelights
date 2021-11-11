@@ -70,13 +70,13 @@
 
 ---
 
-- TypeScript - Used as a static typing tool
+- TypeScript - Static typing tool
 
-- Sass - Used to make styling simple
+- Sass - Modern way to style elements
 
-- React - Used for component development and management
+- React - Component development and management
 
-- Redux - Used as a state management tool
+- Redux - State management tool
 
 - Apollo
 
