@@ -16,6 +16,8 @@
 
 - Kissland theme
 
+- lalaland theme
+
 - All of the lights theme
 
 - Certified loverboy heart floating theme
@@ -76,9 +78,11 @@
 
 - Redux - Used as a state management tool
 
+- Apollo
+
 - GraphQL
 
-- NodeJS
+- NodeJS/express
 
 - PostressQL
 
