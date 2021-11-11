@@ -72,11 +72,11 @@
 
 - TypeScript - Static typing tool
 
-- Sass - Modern way to style elements
+- Sass - Made styling easy
 
 - React - Component development and management
 
-- Redux - State management tool
+- Redux - State management
 
 - Apollo
 
