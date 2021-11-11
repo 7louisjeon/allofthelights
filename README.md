@@ -86,7 +86,7 @@
 
 - PostgresQL
 
-- Axios -
+- Axios
 
 - Mikro-Orm
 
