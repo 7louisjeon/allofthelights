@@ -20,9 +20,9 @@
 
 - All of the lights theme
 
-- Certified loverboy heart floating theme
+- Certified loverboy theme
 
-- Golden ovo mark floating theme
+- OVO theme
 
 <br/>
 
