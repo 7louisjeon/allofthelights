@@ -1,4 +1,4 @@
-import 'reflect-metadata'
+import "reflect-metadata";
 import { MikroORM } from "@mikro-orm/core";
 import { __prod__ } from "./constants";
 import microConfig from "./mikro-orm.config";
@@ -19,7 +19,7 @@ const main = async () => {
       resolvers: [HelloResolver, PostResolver],
       validate: false,
     }),
-    context: () => ({ em: orm.em })
+    context: () => ({ em: orm.em }),
   });
 
   await apolloServer.start();
