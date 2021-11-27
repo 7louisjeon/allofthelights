@@ -86,6 +86,8 @@
 
 - PostgresQL
 
+- Redis
+
 - Axios
 
 - Mikro-Orm
@@ -97,6 +99,7 @@
 ---
 
 - 0.0.1
+
   - Structured development env
 
 - 0.0.2
