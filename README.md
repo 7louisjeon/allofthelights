@@ -104,4 +104,8 @@
 
 - 0.0.2
 
-  - Set basic backend structure with TypeScript, Apollo, GraphQL, NodeJS/express, PostgresQL and Mikro-Orm
+  - Set basic backend structure with TypeScript, Apollo, GraphQL, NodeJS, Express, PostgresQL and Mikro-Orm
+
+- 0.0.3
+
+  - Set basic frontend structure with TypeScript, Next JS, Chakra UI, Formik and others.
